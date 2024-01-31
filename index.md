@@ -1,10 +1,5 @@
 ---
-title: Welcome to the Resident Anthropologist
+title: Residual Images
+intro: Data Culture, Digital Media & Anthropology
 ---
-# This is a test
-Normal text
-- bullet 1
-- bullet 2
-
-And *italics*
 
