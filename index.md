@@ -1,5 +1,5 @@
 ---
-title: Residual Images
+title: Digital | Residues
 intro: Data Culture, Digital Media & Anthropology
 ---
 
