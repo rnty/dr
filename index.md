@@ -1,4 +1,4 @@
 ---
-title: HMKW Teaching Assets
+title: Teaching Assets
 ---
 
