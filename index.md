@@ -1,5 +1,4 @@
 ---
-title: Digital Residues
-intro: Data Culture, Digital Media & Anthropology
+title: HMKW Teaching Assets
 ---
 
